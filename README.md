@@ -41,7 +41,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 License
 This project is licensed under the MIT License.
-![Screenshot (1443)](https://github.com/IT21754470/New-premiere--movies/assets/110586268/d738b907-ad8c-4017-9caf-a2e1010e213b)
-![Screenshot (1442)](https://github.com/IT21754470/New-premiere--movies/assets/110586268/5999031e-a62d-48af-8951-d66da4c9dc5c)
-![Screenshot (1444)](https://github.com/IT21754470/New-premiere--movies/assets/110586268/e39b2b43-838e-4a46-b21c-421cdf6ae36f)
-![Screenshot (1441)](https://github.com/IT21754470/New-premiere--movies/assets/110586268/1495e0b0-ea0f-43a8-a328-86a8d8f07a06)
+![Screenshot (1443)](https://github.com/IT21754470/movie-premier-website/assets/110586268/b6d26317-1449-452b-bdfa-39a345c641c3)
+![Screenshot (1442)](https://github.com/IT21754470/movie-premier-website/assets/110586268/f12a8191-c98a-4f7a-af08-70e3688b7def)
+![Screenshot (1444)](https://github.com/IT21754470/movie-premier-website/assets/110586268/f8421223-7f37-49dd-b5e5-88afc92cf8d3)
+![Screenshot (1441)](https://github.com/IT21754470/movie-premier-website/assets/110586268/7fb3e4fa-1d5a-456a-9149-6a084214f482)
